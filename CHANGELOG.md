@@ -8,5 +8,7 @@ Keyboard Navigation (Shortcuts)
 Mouse Gestures
 
 ## [Unreleased]
+
+## [1.0.0] - 2021-07-23
 ### Added
 * KeyboardWatcher to listen for global keyboard events with the application not in focus.
