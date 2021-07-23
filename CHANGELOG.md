@@ -5,7 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Ideas/Upcoming]
 Keyboard Navigation (Shortcuts)
-KeyboardWatcher
+Mouse Gestures
 
 ## [Unreleased]
-
+### Added
+* KeyboardWatcher to listen for global keyboard events with the application not in focus.
