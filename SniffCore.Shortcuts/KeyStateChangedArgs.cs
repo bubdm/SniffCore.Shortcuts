@@ -6,9 +6,6 @@
 using System;
 using System.Windows.Input;
 
-// ReSharper disable MemberCanBePrivate.Global
-// ReSharper disable UnusedAutoPropertyAccessor.Global
-
 namespace SniffCore.Shortcuts
 {
     /// <summary>
